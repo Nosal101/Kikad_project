@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS63021DSJR")(type "KiCad")(uri "${KIPRJMOD}/Nowy folder/TPS63021DSJR.kicad_sym")(options "")(descr ""))
+)
