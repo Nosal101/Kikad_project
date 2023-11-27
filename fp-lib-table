@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "SS0-16_P2.54")(type "KiCad")(uri "${KIPRJMOD}/SS0-16_P2.54.pretty")(options "")(descr ""))
   (lib (name "Trans_footprint")(type "KiCad")(uri "${KIPRJMOD}/Trans_footprint.pretty")(options "")(descr ""))
+  (lib (name "IC")(type "KiCad")(uri "${KIPRJMOD}/Nowy folder/IC.pretty")(options "")(descr ""))
 )
