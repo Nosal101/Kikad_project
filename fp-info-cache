@@ -1,4 +1,4 @@
-22460140269448924
+22461841626051936
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90971,6 +90971,13 @@ test point THT pad
 0
 1
 1
+Trans_footprint
+LDR
+
+
+0
+2
+2
 Trans_footprint
 OJ_OJE_Relay
 

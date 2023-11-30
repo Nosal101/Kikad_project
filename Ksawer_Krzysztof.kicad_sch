@@ -4210,13 +4210,13 @@
     (property "Reference" "R6" (at 77.47 107.95 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "LDR23" (at 77.47 110.49 0)
+    (property "Value" "LDR1" (at 77.47 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "500mW; 50÷100kΩ; 560nm; THT; ØLED: 20mm;" (at 79.375 109.22 90)
+    (property "Footprint" "Trans_footprint:LDR" (at 79.375 109.22 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.tme.eu/pl/details/02-ldr23/fotorezystory/nte-electronics/?brutto=1&currency=PLN&gad_source=1&gclid=CjwKCAiAgeeqBhBAEiwAoDDhnxxvvgZ09eV3et7v3hX89EgXv7xleamlIjj7GZW6hUo37maD1W62bxoCXXIQAvD_BwE" (at 74.93 110.49 0)
+    (property "Datasheet" "https://www.tme.eu/pl/details/02-ldr21/fotorezystory/nte-electronics/" (at 74.93 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 774ec8a0-f59f-46fe-805e-5e813005df7c))
@@ -6222,7 +6222,7 @@
     )
   )
 
-  (symbol (lib_id "Isolator:LTV-844") (at 77.47 180.34 0) (unit 2)
+  (symbol (lib_id "Isolator:LTV-844") (at 77.47 180.34 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ef426f10-6907-4662-82d2-c79903df2d9c)
     (property "Reference" "U4" (at 77.47 171.45 0)
@@ -6256,7 +6256,7 @@
     (instances
       (project "Ksawer_Krzysztof"
         (path "/1467245e-82c5-4f8a-9413-861f78518855"
-          (reference "U4") (unit 2)
+          (reference "U4") (unit 4)
         )
       )
     )
