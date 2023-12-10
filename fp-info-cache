@@ -1,4 +1,4 @@
-22461842035498479
+22463544286860180
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56109,8 +56109,8 @@ IC_TPS63021DSJR
 
 
 0
-30
-30
+15
+15
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -90978,6 +90978,13 @@ LDR
 0
 2
 2
+Trans_footprint
+NHD-C0220BiZ
+
+
+0
+10
+10
 Trans_footprint
 OJ_OJE_Relay
 

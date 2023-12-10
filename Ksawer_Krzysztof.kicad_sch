@@ -5650,7 +5650,7 @@
     (property "Value" "NHD-C0220BIZ" (at 144.4341 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Display:NHD-C0220BiZ" (at 142.24 62.23 0)
+    (property "Footprint" "Trans_footprint:NHD-C0220BiZ" (at 142.24 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf" (at 134.62 31.75 0)
