@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Prototyp układu automatycznej kiełkownicy")
+    (date "15.12.2023")
+    (rev "v1.1")
+    (company "Ksawery Giera & Krzysztof Nosal")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Current:INA180A1" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 3.81 3.81 0)
@@ -6423,7 +6430,7 @@
     (property "Reference" "C13" (at 212.09 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.1uf" (at 219.71 50.8 90)
+    (property "Value" "100nf" (at 219.71 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 217.17 51.1048 0)
